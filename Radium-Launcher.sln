@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radium-Launcher", "Radium-Launcher\Radium-Launcher.csproj", "{6B898350-27BF-4C93-A95E-C9DE85B844F9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Radiun_Launcher+", "installer\installer.vdproj", "{5546A34B-984A-4C60-8168-8053B1419DCC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radium-LauncherTests", "Radium-LauncherTests\Radium-LauncherTests.csproj", "{82A7123A-9E8E-49A0-860D-51FAFFF05843}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{F775E69A-A2B0-44F5-B76F-F1FA89D5F367}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radium-Launcher-Resharped", "Resharped\Radium-Launcher-Resharped.csproj", "{C0947762-C9F9-46D8-8E28-70CA709C7607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radium-Launcher-Express", "Radium-Launcher-Express\Radium-Launcher-Express.csproj", "{213DCA28-1CD4-4ABE-ABB9-874174252EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = The solution of the Radium Launcher App
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B898350-27BF-4C93-A95E-C9DE85B844F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B898350-27BF-4C93-A95E-C9DE85B844F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B898350-27BF-4C93-A95E-C9DE85B844F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B898350-27BF-4C93-A95E-C9DE85B844F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5546A34B-984A-4C60-8168-8053B1419DCC}.Debug|Any CPU.ActiveCfg = Debug
+		{5546A34B-984A-4C60-8168-8053B1419DCC}.Release|Any CPU.ActiveCfg = Release
+		{82A7123A-9E8E-49A0-860D-51FAFFF05843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A7123A-9E8E-49A0-860D-51FAFFF05843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A7123A-9E8E-49A0-860D-51FAFFF05843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A7123A-9E8E-49A0-860D-51FAFFF05843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0947762-C9F9-46D8-8E28-70CA709C7607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0947762-C9F9-46D8-8E28-70CA709C7607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0947762-C9F9-46D8-8E28-70CA709C7607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0947762-C9F9-46D8-8E28-70CA709C7607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213DCA28-1CD4-4ABE-ABB9-874174252EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213DCA28-1CD4-4ABE-ABB9-874174252EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213DCA28-1CD4-4ABE-ABB9-874174252EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213DCA28-1CD4-4ABE-ABB9-874174252EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954EBF3C-F340-4A65-B5F7-D713C61C206F}
+	EndGlobalSection
+EndGlobal
