@@ -10,4 +10,4 @@ Il est un work-in-progress et il n'y en pas encore de backend et ne permet pas d
 
 -> Version Cli (terminal) :  À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
 
-site disponible prochainement -> <https://xgui4.github.io/Radium.launcher>
+site disponible prochainement -> <https://xgui4.github.io/Radium.Launcher>
