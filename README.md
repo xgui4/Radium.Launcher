@@ -6,11 +6,11 @@
 
 ### Ou trouver le projet et le télécharger
 
-    - Version Windows (WPF .NET 8) : [Code Source](https://shorturl.at/N4buo)
+- Version Windows (WPF .NET 8) : [Code Source](https://shorturl.at/N4buo)
 
-    - Version GUI Multiplatforme (Avalonia-UI): À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
+- Version GUI Multiplatforme (Avalonia-UI): À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
 
-    - Version Cli (terminal) (.NET 8) :  À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
+- Version Cli (terminal) (.NET 8) :  À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
 
 ### Lien vers le site en construction
 
