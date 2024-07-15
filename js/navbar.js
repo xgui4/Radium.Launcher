@@ -15,20 +15,20 @@ function displayPage()
 
 const page = {
     title : "Requirement",
-    url : "pages/Requirement.html",
-    disabled : true,
+    url : "Requirement.html",
+    disabled : false,
 }
 
 const page2 = {
     title : "About",
-    url : "pages/About.html",
-    disabled : true,
+    url : "About.html",
+    disabled : false,
 }
 
 const page3 = {
     title : "Download",
-    url : "pages/Requirement.html",
-    disabled : true
+    url : "Download.html",
+    disabled : false
 }
 
 let pages = [page, page2, page3];
