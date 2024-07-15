@@ -1,13 +1,21 @@
-# Radium-Launcher - un "launcher" Minecraft non-officiel.
+# Radium-Launcher - un "launcher" Minecraft non-officiel
 
-````
-Il est un work-in-progress et il n'y en pas encore de backend et ne permet pas de télécharger Minecraft ni de le lancer sans un autre lanceur
-````
+## Disclaimeur important
 
--> Version Windows : <https://shorturl.at/N4buo>
+### Il est un work-in-progress et il n'y en pas encore de backend et ne permet pas de télécharger Minecraft ni de le lancer sans un autre lanceur
 
--> Version GUI Multiplatforme : À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
+### Ou trouver le projet et le télécharger
 
--> Version Cli (terminal) :  À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
+- Version Windows (WPF .NET 8) : [Code Source](https://shorturl.at/N4buo)
 
-site disponible prochainement -> <https://xgui4.github.io/Radium.Launcher>
+- Version GUI Multiplatforme (Avalonia-UI): À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
+
+- Version Cli (terminal) (.NET 8) :  À venir quand il sera prêt (une ancienne version est disponible dans une ancien commit de se repo)
+
+### Lien vers le site en construction
+
+site disponible prochainement -> [Cliqué moi](https://xgui4.github.io/Radium.Launcher)
+
+### Notice légale
+
+### Très important ! Ceci n'est pas un produit officiel de Mojang ou de Microsoft ni n'est affilié
