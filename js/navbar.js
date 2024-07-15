@@ -14,20 +14,20 @@ function displayPage()
 }
 
 const page = {
-    title : "Page 1",
-    url : "#",
+    title : "Requirement",
+    url : "pages/Requirement.html",
     disabled : true,
 }
 
 const page2 = {
-    title : "Page 2",
-    url : "#",
+    title : "About",
+    url : "pages/About.html",
     disabled : true,
 }
 
 const page3 = {
-    title : "Page 3",
-    url : "#",
+    title : "Download",
+    url : "pages/Requirement.html",
     disabled : true
 }
 
